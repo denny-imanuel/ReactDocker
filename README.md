@@ -1,6 +1,6 @@
 # Angular Docker
 
-This project shows how to dockerize React CLI application
+This project shows how to dockerize web application build using React JS web development framework for Java Script programming language.
 
 ## Requirements
 
